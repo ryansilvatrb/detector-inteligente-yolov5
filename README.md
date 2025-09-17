@@ -1,0 +1,1 @@
+# detector-inteligente-yolov5
